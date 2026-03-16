@@ -30,13 +30,14 @@ The goal is to understand how to:
 
 ## Project Structure
 
+```
 country-api-test
 │
 ├── main.py
-
 ├── requirements.txt
-
 └── README.md
+
+```
 
 ---
 
@@ -58,27 +59,37 @@ python main.py
 
 4. Enter a country name when prompted.
 
-Example:
+  Example:
 
-Enter a country (or 'exit'): Brazil
+  ```
+  Enter a country (or 'exit'): Brazil
+  ```
 
-Example Output
+  Example Output
+  
+  ```
+  Country: Brazil
+  Capital: Brasília
+  Population: 213,421,037
+  Region: Americas
+  Languages: Portuguese
+  ```
 
-Country: Brazil
-Capital: Brasília
-Population: 213,421,037
-Region: Americas
-Languages: Portuguese
+  API Used
 
-API Used
+  This project uses the REST Countries API:
 
-This project uses the REST Countries API:
+  ```
+  https://restcountries.com/
+  ```
 
-https://restcountries.com/
+  Example endpoint:
 
-Example endpoint:
+  ```
+  https://restcountries.com/v3.1/name/brazil
+  ```
 
-https://restcountries.com/v3.1/name/brazil
+ --- 
 
 ## What I Practiced in This Project
 
