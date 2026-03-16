@@ -33,7 +33,9 @@ The goal is to understand how to:
 country-api-test
 │
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 ---
@@ -80,17 +82,17 @@ https://restcountries.com/v3.1/name/brazil
 
 ## What I Practiced in This Project
 
-# Working with APIs in Python
+- Working with APIs in Python
 
-# Sending HTTP requests
+- Sending HTTP requests
 
-# Handling API responses
+- Handling API responses
 
-# Parsing JSON data
+- Parsing JSON data
 
-# Accessing nested data structures
+- Accessing nested data structures
 
-# Structuring Python code using functions
+- Structuring Python code using functions
 
 
 
