@@ -31,7 +31,7 @@ The goal is to understand how to:
 ## Project Structure
 
 ```
-country-api-test
+rest-country-api-python
 │
 ├── main.py
 ├── requirements.txt
