@@ -105,4 +105,6 @@ python main.py
 
 - Structuring Python code using functions
 
+---
 
+👩‍💻 Developed by Vitória Bitencourt
